@@ -3,7 +3,7 @@
 </p>
 
 <center>
-    <img src="./logo_row.png" alt="Allways" style="zoom:76%;" align="center"/>
+    <img src="/assets/img/allways.jpg" alt="Allways" style="zoom:20%;" align="center"/>
 </center>
 
 
