@@ -63,7 +63,7 @@ AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공
 ### Tech Stack
 
 <center>
-    <img src="/assets/img/stack.png" alt="Allways"/>
+    <img src="/assets/img/techstack.png" alt="Allways"/>
 </center>
 
 ### System Architecture
@@ -124,10 +124,10 @@ AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공
 
 #### Slack을 활용한 실시간 알림
 <center>
-    <img src="/assets/img/monitoring/monitoring (6).PNG" alt="Allways"/>
     <img src="/assets/img/monitoring/monitoring (7).PNG" alt="Allways"/>
     <img src="/assets/img/monitoring/monitoring (8).PNG" alt="Allways"/>
     <img src="/assets/img/monitoring/monitoring (9).PNG" alt="Allways"/>
+    <img src="/assets/img/monitoring/monitoring (6).PNG" alt="Allways"/>
 </center>
 
 
