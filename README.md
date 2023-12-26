@@ -53,3 +53,65 @@ AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공
 </center>
 
 ## :mag: Overview
+
+
+
+<br>
+
+## :wrench: Tech Stack
+
+### Tech Stack
+
+<center>
+    <img src="/assets/img/stack.png" alt="Allways"/>
+</center>
+
+### System Architecture
+
+<center>
+    <img src="/assets/img/arch.png" alt="Allways"/>
+</center>
+
+<br>
+
+## :pencil2: ERD
+
+<center>
+    <img src="/assets/img/erd.png" alt="Allways"/>
+</center>
+
+<br>
+
+## :runner: Steps to run
+
+### Backend
+
+```bash
+
+```
+
+### Frontend
+
+```bash
+
+```
+
+<br>
+
+## 🤼‍♂️Author
+
+Team Leader : 👨‍💻 **Kim Minjun**
+
+Backend : 👨‍💻 **Kim Sungjun**
+
+Backend: 👨‍💻 **Rhew Changmeen**
+
+Frontend : 👩‍💻 **Choe Dajeong**
+
+Frontend : 👨‍💻 **Hwang Suha**
+
+<hr>
+
+## 📝 License
+
+Copyright © 2023  Allways Blog  <br>
