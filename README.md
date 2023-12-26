@@ -10,6 +10,8 @@
 
 > Allways Blog : AI 이미지 기반 사용자 맞춤형 블로그 서비스 (KEA 3rd 프로젝트)
 
+### 🏠 [Github](https://github.com/orgs/KEA-Allways/repositories) :clapper:[Demo 시연영상](https://youtu.be/XlRraxUUBxo?si=j6PC8vpLi8gxGrm_) :page_with_curl:[프로젝트 명세서](https://drive.google.com/file/d/1KhuyxRo_bFmNUyDkY_oQNm15cWwzaq0j/view?usp=drive_link) :microphone:[Presentation](https://drive.google.com/file/d/1LBQin1mjRbgkCD9tg_CMj16N2GcaIDDg/view?usp=drive_link)
+
 <br>
 
 ## ✨ Description
