@@ -72,43 +72,79 @@ AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공
     <img src="/assets/img/arch.png" alt="Allways"/>
 </center>
 
-<br>
+### Network
 
-## :pencil2: ERD
+<center>
+    <img src="/assets/img/network.png" alt="Allways"/>
+</center>
+
+### ERD
 
 <center>
     <img src="/assets/img/erd.png" alt="Allways"/>
 </center>
 
+
 <br>
 
 ## :runner: Steps to run
 
-### Backend
+### Deployment
 
-```bash
+#### CI/CD를 통한 시스템 배포
 
-```
+<center>
+    <img src="/assets/img/deployment/deployment (1).PNG" alt="Allways"/>
+    <img src="/assets/img/deployment/deployment (2).PNG" alt="Allways"/>
+    <img src="/assets/img/deployment/deployment (3).PNG" alt="Allways"/>
+</center>
 
-### Frontend
 
-```bash
 
-```
+### Testing
+
+<center>
+    <img src="/assets/img/testing/testing (1).PNG" alt="Allways"/>
+    <img src="/assets/img/testing/testing (3).PNG" alt="Allways"/>
+    <img src="/assets/img/testing/testing (4).PNG" alt="Allways"/>
+    <img src="/assets/img/testing/testing (6).PNG" alt="Allways"/>
+</center>
+
+
+### Monitoring
+
+#### Elastic APM을 활용한 시스템 모니터링
+<center>
+    <img src="/assets/img/monitoring/monitoring (1).PNG" alt="Allways"/>
+    <img src="/assets/img/monitoring/monitoring (2).PNG" alt="Allways"/>
+    <img src="/assets/img/monitoring/monitoring (3).PNG" alt="Allways"/>
+    <img src="/assets/img/monitoring/monitoring (4).PNG" alt="Allways"/>
+    <img src="/assets/img/monitoring/monitoring (5).PNG" alt="Allways"/>
+</center>
+
+#### Slack을 활용한 실시간 알림
+<center>
+    <img src="/assets/img/monitoring/monitoring (6).PNG" alt="Allways"/>
+    <img src="/assets/img/monitoring/monitoring (7).PNG" alt="Allways"/>
+    <img src="/assets/img/monitoring/monitoring (8).PNG" alt="Allways"/>
+    <img src="/assets/img/monitoring/monitoring (9).PNG" alt="Allways"/>
+</center>
+
+
 
 <br>
 
-## 🤼‍♂️Author
+## 🤼‍♂️Member
 
 Team Leader : 👨‍💻 **Kim Minjun**
 
-Backend : 👨‍💻 **Kim Sungjun**
+Frontend : 👨‍💻 **Kim Sungjun**
 
 Backend: 👨‍💻 **Rhew Changmeen**
 
-Frontend : 👩‍💻 **Choe Dajeong**
+Backend : 👩‍💻 **Choe Dajeong**
 
-Frontend : 👨‍💻 **Hwang Suha**
+Backend : 👨‍💻 **Hwang Suha**
 
 <hr>
 
