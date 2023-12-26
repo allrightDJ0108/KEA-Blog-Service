@@ -52,7 +52,34 @@ AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공
     <img src="/assets/img/requirements.png" alt="Allways"  align="center"/>
 </center>
 
+### 1. 다채로운 테마
+사용자는 하나의 블로그로 주제가 다른 여러개의 블로그를 운영할 수 있다. <br />
+블로그의 카테고리를 클릭하면 해당 카테고리의 배경 이미지로 변경된다.
+
+### 2. 템플릿 라이브러리
+사전에 저장해둔 템플릿을 통해 사용자는 빠르고 쉽게 게시글을 작성할 수 있다.
+
+### 3. 이미지 크리에이터
+사용자는 테마를 생성하거나 썸네일을 생성할 때 <br />
+AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
+
+
 ## :mag: Overview
+
+<center>
+    <img src="/assets/img/overview/overview (1).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (2).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (3).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (4).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (5).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (6).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (7).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (8).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (9).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (10).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (11).PNG" alt="Allways"/>
+    <img src="/assets/img/overview/overview (12).PNG" alt="Allways"/>
+</center>
 
 
 
