@@ -1,29 +1,27 @@
-<h1 align="center">Welcome to Allways Blog <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"></h1>
+<h1 align="">Allways Blog Web Service <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"></h1>
 <p>
 </p>
 
 <center>
-    <img src="/assets/img/allways.jpg" alt="Allways" style="zoom:20%;" align="center"/>
+    <img src="/assets/img/allways.jpg" alt="Allways" style="width:500px;" align="center"/>
 </center>
 
 
 
 > Allways Blog : AI 이미지 기반 사용자 맞춤형 블로그 서비스 (KEA 3rd 프로젝트)
 
-### 🏠 [Github](https://github.com/orgs/KEA-Allways/repositories) :clapper:[Demo 시연영상](https://youtu.be/XlRraxUUBxo?si=j6PC8vpLi8gxGrm_) :page_with_curl:[프로젝트 명세서](https://drive.google.com/file/d/1KhuyxRo_bFmNUyDkY_oQNm15cWwzaq0j/view?usp=drive_link) :microphone:[Presentation](https://drive.google.com/file/d/1LBQin1mjRbgkCD9tg_CMj16N2GcaIDDg/view?usp=drive_link)
+### 💻 [Github](https://github.com/orgs/KEA-Allways/repositories) :clapper: [Demo](https://youtu.be/XlRraxUUBxo?si=j6PC8vpLi8gxGrm_) :microphone: [Presentation](https://drive.google.com/file/d/1LBQin1mjRbgkCD9tg_CMj16N2GcaIDDg/view?usp=drive_link)
 
 <br>
 
-## ✨ Description
+## 📂 프로젝트 소개
 
-```sh
-Allways Blog는 기존의 블로그 서비스들의 장점을 가져와 진입 장벽이 낮으면서도
-AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공하는 블로그 서비스이다.
-```
+Allways Blog는 기존의 블로그 서비스들의 장점을 가져와 진입 장벽이 낮으면서,<br>
+AI를 활용한 다양하고 편리한 커스터마이징 기능을 제공하는 블로그 서비스입니다.
 
+<!--
 
-
-## :pushpin: Project Goal
+## :pushpin: 프로젝트 목표
 
 ```sh
 블로그는 웹(Web)과 로그(log)가 합쳐져 만들어진 단어로,
@@ -45,14 +43,17 @@ AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공
 우리는 이 점에 집중하여 ‘모든 유저들이 만족 할 만한 블로그 플랫폼은 없을까?’ 라는 시점에서 해당 프로젝트를 기획했다.
 
 ```
+-->
 
+<br>
 
-
-## :mag: 서비스 주요기능
+## :mag: 프로젝트 주요기능
 
 <center>
-    <img src="/assets/img/requirements.png" alt="Allways"  align="center"/>
+    <img src="/assets/img/requirements.png" alt="Allways"  align="center" style="width:800px";/>
 </center>
+
+<br>
 
 ### 1. 다채로운 테마
 사용자는 하나의 블로그로 주제가 다른 여러개의 블로그를 운영할 수 있다. <br />
@@ -65,52 +66,64 @@ AI를 활용한 다양하면서도 편리한 커스터마이징 기능을 제공
 사용자는 테마를 생성하거나 썸네일을 생성할 때 <br />
 AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
 
+<br>
 
 ## :mag: Overview
 
-<center>
-    <img src="/assets/img/overview/overview (1).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (2).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (3).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (4).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (5).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (6).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (7).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (8).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (9).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (10).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (11).PNG" alt="Allways"/>
-    <img src="/assets/img/overview/overview (12).PNG" alt="Allways"/>
-</center>
-
+<table>
+  <tr>
+    <td><img src="/assets/img/overview/overview (1).PNG" alt="Allways" style="width:500px;"/></td>
+    <td><img src="/assets/img/overview/overview (2).PNG" alt="Allways" style="width:500px;"/></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/overview/overview (3).PNG" alt="Allways" style="width:500px;"/></td>
+    <td><img src="/assets/img/overview/overview (4).PNG" alt="Allways" style="width:500px;"/></td>
+  </tr>
+    <tr>
+    <td><img src="/assets/img/overview/overview (5).PNG" alt="Allways" style="width:500px;"/></td>
+    <td><img src="/assets/img/overview/overview (6).PNG" alt="Allways" style="width:500px;"/></td>
+  </tr>
+    <tr>
+    <td><img src="/assets/img/overview/overview (7).PNG" alt="Allways" style="width:500px;"/></td>
+    <td><img src="/assets/img/overview/overview (8).PNG" alt="Allways" style="width:500px;"/></td>
+  </tr>
+    <tr>
+    <td><img src="/assets/img/overview/overview (9).PNG" alt="Allways" style="width:500px;"/></td>
+    <td><img src="/assets/img/overview/overview (10).PNG" alt="Allways" style="width:500px;"/></td>
+  </tr>
+    <tr>
+    <td><img src="/assets/img/overview/overview (11).PNG" alt="Allways" style="width:500px;"/></td>
+    <td><img src="/assets/img/overview/overview (12).PNG" alt="Allways" style="width:500px;"/></td>
+  </tr>
+</table>
 
 
 <br>
 
-## :wrench: Tech Stack
+## 📜 Tech Stack
 
 ### Tech Stack
 
 <center>
-    <img src="/assets/img/techstack.png" alt="Allways"/>
+    <img src="/assets/img/techstack.png" alt="Allways" style="width:500px;"/>
 </center>
 
 ### System Architecture
 
 <center>
-    <img src="/assets/img/arch.png" alt="Allways"/>
+    <img src="/assets/img/arch.png" alt="Allways" style="width:500px;"/>
 </center>
 
 ### Network
 
 <center>
-    <img src="/assets/img/network.png" alt="Allways"/>
+    <img src="/assets/img/network.png" alt="Allways" style="width:500px;"/>
 </center>
 
 ### ERD
 
 <center>
-    <img src="/assets/img/erd.png" alt="Allways"/>
+    <img src="/assets/img/erd.png" alt="Allways" style="width:500px;"/>
 </center>
 
 
@@ -124,9 +137,14 @@ AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
 
 <center>
     <img src="/assets/img/deployment/deployment (1).PNG" alt="Allways"/>
-    <img src="/assets/img/deployment/deployment (2).PNG" alt="Allways"/>
-    <img src="/assets/img/deployment/deployment (3).PNG" alt="Allways"/>
 </center>
+
+<table>
+  <tr>
+    <td><img src="/assets/img/deployment/deployment (2).PNG" alt="Allways" style="width:500px;"/></td>
+    <td><img src="/assets/img/deployment/deployment (3).PNG" alt="Allways" style="width:500px;"/></td>
+  </tr>
+</table>
 
 
 
@@ -134,10 +152,15 @@ AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
 
 <center>
     <img src="/assets/img/testing/testing (1).PNG" alt="Allways"/>
-    <img src="/assets/img/testing/testing (3).PNG" alt="Allways"/>
-    <img src="/assets/img/testing/testing (4).PNG" alt="Allways"/>
-    <img src="/assets/img/testing/testing (6).PNG" alt="Allways"/>
 </center>
+
+<table>
+  <tr>
+    <td><img src="/assets/img/testing/testing (3).PNG" alt="Allways" style="width:500px;"/></td>
+    <td><img src="/assets/img/testing/testing (4).PNG" alt="Allways" style="width:500px;"/></td>
+    <td><img src="/assets/img/testing/testing (6).PNG" alt="Allways" style="width:500px;"/></td>
+  </tr>
+</table>
 
 
 ### Monitoring
@@ -145,37 +168,61 @@ AI를 통해 키워드를 입력해 이미지를 생성할 수 있다.
 #### Elastic APM을 활용한 시스템 모니터링
 <center>
     <img src="/assets/img/monitoring/monitoring (1).PNG" alt="Allways"/>
-    <img src="/assets/img/monitoring/monitoring (2).PNG" alt="Allways"/>
-    <img src="/assets/img/monitoring/monitoring (3).PNG" alt="Allways"/>
-    <img src="/assets/img/monitoring/monitoring (4).PNG" alt="Allways"/>
-    <img src="/assets/img/monitoring/monitoring (5).PNG" alt="Allways"/>
 </center>
+
+<table>
+  <tr>
+    <td><img src="/assets/img/monitoring/monitoring (2).PNG" style="width:500px;"/></td>
+    <td><img src="/assets/img/monitoring/monitoring (3).PNG" style="width:500px;"/></td>
+  </tr>
+    <tr>
+    <td><img src="/assets/img/monitoring/monitoring (4).PNG" style="width:500px;"/></td>
+    <td><img src="/assets/img/monitoring/monitoring (5).PNG" style="width:500px;"/></td>
+  </tr>
+</table>
 
 #### Slack을 활용한 실시간 알림
-<center>
-    <img src="/assets/img/monitoring/monitoring (7).PNG" alt="Allways"/>
-    <img src="/assets/img/monitoring/monitoring (8).PNG" alt="Allways"/>
-    <img src="/assets/img/monitoring/monitoring (9).PNG" alt="Allways"/>
-    <img src="/assets/img/monitoring/monitoring (6).PNG" alt="Allways"/>
-</center>
 
+<table>
+  <tr>
+    <td><img src="/assets/img/monitoring/monitoring (7).PNG" style="width:500px;"/></td>
+    <td><img src="/assets/img/monitoring/monitoring (8).PNG" style="width:500px;"/></td>
+  </tr>
+    <tr>
+    <td><img src="/assets/img/monitoring/monitoring (9).PNG" style="width:500px;"/></td>
+    <td><img src="/assets/img/monitoring/monitoring (6).PNG" style="width:500px;"/></td>
+  </tr>
+</table>
 
 
 <br>
 
-## 🤼‍♂️Member
+## <img src="/assets/img/allways.png" width="30px"/> Team Allways
 
-Team Leader : 👨‍💻 **Kim Minjun**
+<div align="center">
 
-Frontend : 👨‍💻 **Kim Sungjun**
+<table>
+<tr>
+    <!-- Header Row -->
+    <th>Infra / PM</th>
+    <th>FE</th>
+    <th>BE</th>
+    <th>BE</th>
+    <th>BE</th>
+</tr>
+<tr>
+    <!-- Images and Names Row -->
+    <td><img src="https://github.com/minjun0707.png" alt="Kim Minjun" style="width:100px;"><br/>김민준</td>
+    <td><img src="https://github.com/sungjun-singer.png" alt="Kim Sungjun" style="width:100px;"><br/>김성준</td>
+    <td><img src="https://github.com/changmeen.png" alt="Ryu Changmin" style="width:100px;"><br/>류창민</td>
+    <td><img src="https://github.com/allrightDJ0108.png" alt="Choi Dajeong" style="width:100px;"><br/>최다정</td>
+    <td><img src="https://github.com/hp0724.png" alt="Hwang Suha" style="width:100px;"><br/>황수하</td>
+</tr>
+</table>
 
-Backend: 👨‍💻 **Rhew Changmeen**
+</center>
 
-Backend : 👩‍💻 **Choe Dajeong**
-
-Backend : 👨‍💻 **Hwang Suha**
-
-<hr>
+</div>
 
 ## 📝 License
 
